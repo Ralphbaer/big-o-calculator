@@ -15,7 +15,7 @@ To use the app, simply enter the code for the algorithm you want to analyze into
 The app has the following features:
 
 - Simple user interface for entering algorithm code and displaying time complexity
-- Supports JavaScript and Python code
+- Supports any programming language
 - Uses a variety of techniques to analyze algorithms, including counting loops and branches, tracking variable assignments, and more
 - Allows users to compare the time complexity of different algorithms and choose the most efficient one
 

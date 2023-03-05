@@ -26,7 +26,3 @@ This app is only accessible to authorized users. To gain access, please contact 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Credits
-
-This app was developed by John Doe as part of a coding challenge. It uses various open source libraries and tools, including the [CodeMirror](https://codemirror.net/) text editor and the [Big.js](https://github.com/MikeMcl/big.js/) library for decimal arithmetic. We would like to thank the authors of these libraries and tools for their contributions to the open source community.

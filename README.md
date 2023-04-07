@@ -25,4 +25,4 @@ This app is only accessible to authorized users. To gain access, please contact 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[LICENSE](WTFPL)

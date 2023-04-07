@@ -25,4 +25,4 @@ This app is only accessible to authorized users. To gain access, please contact 
 
 ## License
 
-[LICENSE](WTFPL)
+[WTFPL](LICENSE)
